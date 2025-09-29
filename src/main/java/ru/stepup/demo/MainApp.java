@@ -2,6 +2,7 @@ package ru.stepup.demo;
 public class MainApp {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Hello World1!");
+        System.out.println("Hello8 World5!");
+        System.out.println("Hello World!");
     }
 }
